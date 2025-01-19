@@ -2,13 +2,16 @@
 <h3 align="center">A passionate Software Development Engineer from Spain</h3>
 
 ### 🎓 Degree in Computer Engineering from [University of Girona](https://www.udg.edu/en/)
+
 ### 🧑🏻‍💻 Software Development Engineer @ [Amazon](https://www.aboutamazon.com/about-us/)
+
 ![](https://visitcount.itsvg.in/api?id=adriamontoto&icon=1&color=2)
 <br><br><br>
 
-
 # 💻 Tech Stack
+
 ### ☁️ Cloud Services
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonwebservices&logoColor=white)
 ![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
 ![ECS](https://img.shields.io/badge/-ECS-FF9900?style=flat&logo=amazon-ecs&logoColor=white)
@@ -28,8 +31,8 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers_KV-F38020?style=flat&logo=cloudflareworkers&logoColor=white)
 
-
 ### 🖥️ Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -37,8 +40,8 @@
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=gnu-bash&logoColor=white)
 
-
 ### 🛠️ Tools & Services
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
@@ -56,8 +59,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 
-
 ### 📦 Frameworks & Libraries
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
