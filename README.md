@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Adrià 👋</h1>
-<h3 align="center">A passionate Python Developer and Infrastructure Engineer from Spain</h3>
+<h3 align="center">A passionate Software Development Engineer from Spain</h3>
 
 ### 🎓 Degree in Computer Engineering from [University of Girona](https://www.udg.edu/en/)
-### 🧑🏻‍💻 Backend Developer and Infrastructure Engineer at [MiceLab](https://micelab.udg.edu/)
+### 🧑🏻‍💻 Software Development Engineer @ [Amazon](https://www.aboutamazon.com/about-us/)
 ![](https://visitcount.itsvg.in/api?id=adriamontoto&icon=1&color=2)
 <br><br><br>
 
